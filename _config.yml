@@ -16,7 +16,7 @@
 title: Laurent Pahpy
 email: laurent@pahpy.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Les publications de Laurent Pahpy. Analyste IREF. Économie, sciences, droit, agriculture, écologie & liberté.
+  Publications de Laurent Pahpy. Analyste IREF. Économie, sciences, droit, agriculture, écologie & liberté.
 baseurl: "/pahpy" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LaurentPahpy

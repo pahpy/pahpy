@@ -5,4 +5,9 @@
 layout: page
 ---
 
-Site en construction.
+<h1>Mes publications</h1>
+
+{% for publi in site.data.publis %}
+  <h1><a href="{{ publi.url }}" target="_blank">{{ publi.title }}</a></h1>
+  {{ publi.format }} • {{ publi.date }} • {{ publi.media }} • {{ publi.author }}
+{% endfor %}
