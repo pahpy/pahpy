@@ -1,0 +1,32 @@
+---
+---
+
+@import "minima";
+
+.page-content {
+  background-color: white;
+}
+
+.publi-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.media-logo-container {
+  width: 70px;
+  flex-shrink: 0;
+}
+
+.publi-info-container {
+  margin-left: 15px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 14px;
+}
+
+.media-logo {
+}

@@ -5,9 +5,14 @@
 layout: page
 ---
 
-<h1>Mes publications</h1>
-
 {% for publi in site.data.publis %}
-  <h1><a href="{{ publi.url }}" target="_blank">{{ publi.title }}</a></h1>
-  {{ publi.format }} • {{ publi.date }} • {{ publi.media }} • {{ publi.author }}
+  <div class="publi-container">
+    <div class="media-logo-container">
+      <img class="media-logo" src="assets/img/{{ publi.media }}.png" alt="{{ publi.media }}">
+    </div>
+    <div class="publi-info-container">
+      <a href="{{ publi.url }}" target="_blank">{{ publi.title }}</a><br>
+      <span class="description">{{ publi.format }} • {{ publi.date }} • {{ publi.media }} • {{ publi.author }}</span>
+    </div>
+  </div>
 {% endfor %}
