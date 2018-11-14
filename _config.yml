@@ -21,6 +21,8 @@ baseurl: "/pahpy" # the subpath of your site, e.g. /blog
 url: "http://pahpy.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LaurentPahpy
 github_username: pahpy
+# Google Analytics
+google_analytics: UA-129224614-1
 
 # Build settings
 markdown: kramdown
