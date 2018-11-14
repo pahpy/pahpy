@@ -7,17 +7,29 @@
   background-color: white;
 }
 
+.intro-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.profile-picture-container {
+  width: 150px;
+  flex-shrink: 0;
+}
+.welcome-message-container {
+  margin-left: 15px;
+}
+
 .publi-container {
   display: flex;
   justify-content: flex-start;
   align-items: center;
 }
-
 .media-logo-container {
   width: 70px;
   flex-shrink: 0;
 }
-
 .publi-info-container {
   margin-left: 15px;
   margin-top: 10px;
