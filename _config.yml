@@ -41,3 +41,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Usefull
+# http://www.convertcsv.com/csv-to-json.htm
+# tuto https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB
+# minimal mistake https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+# analytics https://desiredpersona.com/google-analytics-jekyll/
+
