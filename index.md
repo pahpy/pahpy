@@ -6,11 +6,12 @@ layout: page
 ---
 
 <div class="intro-container">
+  <h1>Bienvenue sur mon site !</h1>
   <div class="profile-picture-container">
     <img src="assets/img/pahpy.jpg" alt="Profile picture Laurent Pahpy">
   </div>
   <div class="welcome-message-container">
-    Bienvenue sur le site de Laurent Pahpy, analyste pour l'Institut de recherches économiques et fiscales (IREF). Vous trouverez ici tous mes articles, rapports, débats et conférences régulièrement mis à jour.
+    Je m’appelle Laurent Pahpy et je suis analyste pour l’Institut de recherches économiques et fiscales (IREF). Ingénieur de formation, j’étudie comment l’économie de marché et la science permettent de construire une société plus juste et plus libre. 
   </div>
 </div>
 
