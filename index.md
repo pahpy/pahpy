@@ -5,8 +5,8 @@
 layout: page
 ---
 
+<h1>Bienvenue sur mon site !</h1>
 <div class="intro-container">
-  <h1>Bienvenue sur mon site !</h1>
   <div class="profile-picture-container">
     <img src="assets/img/pahpy.jpg" alt="Profile picture Laurent Pahpy">
   </div>
