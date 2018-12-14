@@ -15,7 +15,7 @@ layout: page
   </div>
 </div>
 
-<br>
+<!-- <br>
 <h1>Mes derniers rapports</h1>
 {% for publi in site.data.publis %}
   <div class="publi-container">
@@ -29,10 +29,10 @@ layout: page
       </div>
     {% endif %}
   </div>
-{% endfor %}
+{% endfor %} -->
 
 <br>
-<h1>Mes articles, conférences et interventions médias</h1>
+<h1>Mes articles, rapports, conférences et interventions médias</h1>
 {% for publi in site.data.publis %}
   <div class="publi-container">
     <div class="media-logo-container">
