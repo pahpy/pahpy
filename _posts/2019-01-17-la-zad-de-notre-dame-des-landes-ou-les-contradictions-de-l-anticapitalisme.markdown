@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "La Zad de Notre-Dame-des-Landes ou les contradictions de l’anticapitalisme"
+date:   2019-01-17 15:45:00 +0100
+categories: article
+---
+
+Sous le soleil du petit matin, le paisible bocage nantais contraste avec les cabanons bariolés et les panneaux hostiles aux journalistes. Notre appréhension s’est rapidement dissipée au contact des militants qui, quoique radicaux, se sont montrés ouverts au dialogue. Impossible de dresser le portrait-robot du zadiste : intellectuels, exilés et marginaux forment une communauté disparate difficile à cerner. Tous partagent néanmoins le rejet du capitalisme et de la civilisation industrielle. 
+
+En mettant délibérément de côté la question de l’aéroport et de certains comportements violents à l’égard de la police, nous avons voulu observer « sur zone » la vie de ceux qui ont eu l’audace d’entreprendre leurs idéaux, quelques semaines avant leur expulsion programmée. La Zad offre un exemple d’ordre spontané qui échappe aux schémas politiques classiques. Le refus de formaliser les rapports d’autorité laisse place aux relations informelles pour impulser des projets collectifs. La gestion des terres, l’allocation du budget ou la résolution des conflits s’effectuent à travers des modes de décision qui se veulent horizontaux, comme la démocratie directe ou le tirage au sort.
+
+À ceci s’ajoute le refus de la propriété, des rapports marchands et de l’éternelle loi de l’offre et la demande. En voulant tout mutualiser, la Zad dégage un parfum de phalanstère et de socialisme utopique qui ne déplairait sans doute pas à un Charles Fourier.
+
+Mais à trop chasser le naturel, il revient au galop. Pour éviter la tragédie des biens communs, les zadistes n’échappent pas au rétablissement de droits de contrôle et donc de propriété sur les biens. Ceux avec qui nous avons discuté admettaient d’ailleurs que les outils ou les habitations sans propriétaire n’étaient pas toujours entretenus correctement.  
+
+Le commerce intrazone obéit à la règle du « prix libre » censé incarner la maxime « de chacun selon ses moyens à chacun selon ses besoins ». Seul le consommateur fixe le prix de la marchandise. Côté producteur, les profits sont en principe interdits. Même si cela peut générer des pénuries de pain, comme nous l’avons constaté lorsque nous sommes rentrés bredouilles de la boulangerie. Peu importe, ces imperfections n’invalident pas le collectivisme auquel tout le monde adhère. Les revenus sont entièrement redistribués même si cette socialisation connaît en pratique des exceptions quand il faut rembourser d’importants investissements. Idem lorsque certains veulent générer d’autres ressources pour ne plus dépendre du Revenu de solidarité active (RSA). La loi du marché est plus tenace qu’elle n’y paraît... 
+
+Nous nous étonnions de ces contradictions. Mais les zadistes assument et l’un d’entre eux se justifie : «  Nous devons nous plier aux règles d’un système qui demeure majoritairement capitaliste ». Le discours indépendantiste reste malgré tout compromis par les dons des sympathisants extérieurs et les prestations sociales financées par le contribuable sans lesquels cette économie de subsistance ne se maintiendrait probablement pas. 
+
+Malgré les innombrables défauts de leur système politique, la Zad offre un exemple de communauté authentiquement solidaire. Elle contraste avec nos États-providence où les politiciens et les bureaucrates se sont arrogé le monopole du cœur. Le consentement prime sur la contrainte. Entre repas partagés et soirées technos ouvertes aux non-zadistes, on est loin du chaos ambiant auquel on pouvait s’imaginer.  
+
+Cet accomplissement est cependant terni par les motivations à l’origine de leur rébellion. Les habitants ont beau brandir l’étendard de la justice et de l’égalité, nous ne pouvons pas nous empêcher de voir dans chacune de leurs actions un ressentiment primitif à l’égard de comportements faussement rabaissés au rang de vices. La diabolisation de l’enrichissement personnel est drapée sous les oripeaux d’une « sobriété heureuse » et d’une conscience écologique prétendument vertueuse. 
+
+De cet instinct découle une méfiance irrationnelle vis-à-vis des acquis les plus précieux de notre civilisation marchande. Les progrès scientifiques et techniques sont les victimes collatérales de cet état d’esprit. Qu’importe s’ils sont à l’origine du recul spectaculaire de la pauvreté, de la famine et des maladies des deux siècles passés. 
+
+Le capitalisme n’est donc pas honni pour sa prétendue propension à créer de la misère. Les zadistes s’accommodent en effet d’une pauvreté qui n’a rien à envier aux bidonvilles du tiers monde. L’ennemi désigné est le triomphe du « vice » de l’intérêt personnel au détriment de la « vertu » du sacrifice collectif. Cette sécession qui permet à quelques-uns de feindre la pauvreté a donc des airs de caprices de privilégiés qui peuvent se permettre le luxe de choisir un mode de vie que de nombreux infortunés à travers le monde fuient au péril de leur vie. 
+
+Bien entendu, on ne peut pas traiter de la question de la Zad de Notre-Dame-des-Landes sans interroger l’acquisition du territoire. Pérenniser l’expérimentation implique que les occupants acquièrent ou louent les terres qui ne leur appartiennent pas en renonçant aux subventions de la société qu’ils rejettent. L’État pourrait en contrepartie renoncer à leur imposer son carcan réglementaire et fiscal. Cela permettrait d’ailleurs d’éprouver la soutenabilité de ces systèmes alternatifs. À l’instar des échecs répétés des phalanstères, des kibboutz et autres communautés utopiques, tout laisse à penser que les zadistes deviendraient malgré eux les meilleurs promoteurs du capitalisme industriel.
+
+<i>Par Ferghane Azihari et Laurent Pahpy. Cette tribune rédigée en avril 2018 fait suite à notre visite de la Zad et à notre rapport <a href="https://www.studentsforliberty.org/wp-content/uploads/2018/04/Rapport-SFL-La-ZAD-une-experience-libe%CC%81rale.pdf" target="_blank">« La Zad de Notre-Dame-des-Landes : une expérience libérale ? »</a></i>
