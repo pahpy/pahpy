@@ -11,7 +11,7 @@ layout: page
     <img src="assets/img/pahpy.jpg" alt="Profile picture Laurent Pahpy">
   </div>
   <div class="welcome-message-container">
-    Ingénieur de formation et de profession, je m'intéresse aux questions agricoles, environnementales et économiques au travers de rapports, articles, conférences ou débats, en collaboration ponctuelle avec des média ou des think-tanks. Je défends une société ouverte, guidée par la science et la raison, résolument écomoderniste, humaniste et libérale.
+    Ingénieur de formation et de profession, je m'intéresse aux questions agricoles, environnementales et économiques au travers de rapports, articles, conférences ou débats, en collaboration ponctuelle avec des médias ou des think-tanks. Je défends une société ouverte, guidée par la science et la raison, résolument écomoderniste, humaniste et libérale.
   </div>
 </div>
 
